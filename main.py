@@ -23,7 +23,7 @@ photo = st.camera_input("Take a photo of the job and skill cards")
 
 if photo:
     image = Image.open(photo)
-    st.image(image, caption="Captured Image", use_column_width=True)
+    st.image(image, caption="Captured Image")
 
     if st.button("Send to Model"):
         st.info("Processing image... Please wait ⏳")

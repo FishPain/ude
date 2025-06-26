@@ -12,3 +12,6 @@ duckduckgo-search
 python-dotenv
 streamlit
 python-docx
+
+streamlit 
+opencv-python-headless
