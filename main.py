@@ -15,8 +15,8 @@ def encode_pil_image(pil_img: Image.Image) -> str:
 
 
 # --- Streamlit UI ---
-st.set_page_config(page_title="Skill Evaluator", layout="centered")
-st.title("📸 Vision-based Job Application Evaluator")
+st.set_page_config(page_title="BUBU Career Chaos", layout="centered")
+st.title("BUBU Career Chaos - Job Application Evaluator")
 
 st.subheader("Step 1: Capture an image")
 photo = st.camera_input("Take a photo of the job and skill cards")
