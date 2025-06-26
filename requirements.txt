@@ -1,0 +1,14 @@
+# Langchain
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain_postgres
+langsmith
+langgraph
+duckduckgo-search
+
+# Others
+python-dotenv
+streamlit
+python-docx
